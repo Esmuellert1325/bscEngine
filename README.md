@@ -33,7 +33,7 @@
 ```
 4. __script.js__ fájl létrehozása (abba a könyvtárba ahol az __index.html__ van)
 5. __style.css__ létrehozása (opcionális)
-6. __Assets__ mappa létrehozása, amennyiben lesznek grafikák (opcionális)
+6. __Assets__ mappa létrehozása, egy könyvtárba a __bscEngine.js__-el (opcionális)
 7. Kód írása a __script.js__ fájlba
 
 ## Live Server indítása
