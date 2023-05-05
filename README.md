@@ -8,7 +8,7 @@
 ### Telepítendő eszközök
 
 *  [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) kódszerkesztő
-  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) bővítmény
+  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) bővítmény (a Visual Studio Code-hoz)
   
 ## Játékmotor használata
 1. ZIP fájl letöltése
